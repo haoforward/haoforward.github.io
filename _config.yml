@@ -17,7 +17,7 @@ favicon: favicon.ico
 
 repository: haoforward/haoforward.github.io
 github_url: https://github.com/haoforward
-url: https://www.haoforward.com
+url: https://haoforward.github.io
 enforce_ssl: haoforward.com
 
 ## Gem
