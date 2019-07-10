@@ -7,7 +7,6 @@ tags: [it]
 keywords: Exception
 excerpt: 没有绝对的异常，只有人为的错误。
 ---
-# Python中的异常处理
 
 ## 错误
 
