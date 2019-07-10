@@ -11,4 +11,4 @@
 
 ## 我的微信
 
-![](https://www.haoforward.com/assets/images/wuhao_wechat.jpg)
+![](https://haoforward.github.io/assets/images/wuhao_wechat.jpg)
