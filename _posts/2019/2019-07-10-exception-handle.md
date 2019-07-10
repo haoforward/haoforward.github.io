@@ -47,9 +47,9 @@ excerpt: 没有绝对的异常，只有人为的错误。
 
    - 尽量使用内置的异常处理语句来替换`try/except`语句，比如`with`语句，`getattr()`方法。
 
-   ## 抛出异常
+## 抛出异常
 
-   ​使用__raise__关键字可自主抛出一个异常，等同于Java和C#中的throw；
+   ​使用raise关键字可自主抛出一个异常，等同于Java和C#中的throw；
 
 ```python
 raise NameError("bad name!")
@@ -64,13 +64,13 @@ print dir(exceptions)
 # ['ArithmeticError', 'AssertionError'...]
 ```
 
-## 自定义异常类型
 
+## 异常处理时常见的问题
+
+### 如何自定义异常类型
 直接从Exception类继承即可。
 
-##异常处理时常见的问题
-
-###Exception和BaseException
+### Exception和BaseException
 
 当要捕获一个通用异常时，应该用`Exception`还是`BaseException`？以下是它们之间的继承关系。
 
@@ -93,7 +93,7 @@ Python 本身提供了很多的语法范式简化了异常的处理，比如`for
 
 `with`语句在打开文件后会自动调用`finally`并关闭文件。我们在写 Python 代码时应该尽量避免在遇到这种情况时还使用try/except/finally的思维来处理。
 
-```
+```python
 # should not
 try:
     f = open(a_file)
