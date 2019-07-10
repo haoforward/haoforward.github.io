@@ -124,7 +124,7 @@ name = getattr(test, 'name', 'default')
 
 ## 异常速查表
 
-![Exception_table](G:\image\Exception_table.jpg)
+![](https://haoforward.github.io/assets/images/2019/it/Exception_table.jpg)
 
 ## 异常处理好习惯
 
