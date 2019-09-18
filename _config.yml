@@ -8,10 +8,10 @@
 # Site settings
 title:  花开空半夏
 subtitle: 分享技术，品味人生
-name: 吴浩and昊慧 
+name: haoforward
 email: wuhao7@buaa.edu.cn
 description: 本站是吴浩的技术分享博客。内容涵盖生活故事、python爬虫技术、pyQt5 GUI界面开发、python数据分析、机器学习等相关的研究与知识分享。
-keywords: haoforward,花开空半夏,Python,Scrapy,MongoDB,MySQL,生活故事,大数据,机器学习,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术
+keywords: haoforward,花开空半夏,Python,Django,Scrapy,MongoDB,MySQL,生活故事,大数据,机器学习,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术
 encoding: "utf-8"
 favicon: favicon.ico 
 
@@ -135,13 +135,13 @@ navs:
 labels:
 
   -
-    href: /payment.html
-    label: 慧宝     
+    href: /python.html
+    label: Python  
     target: _self
 
   -
-    href: /fastdfs.html
-    label: fastdfs
+    href: /mysql.html
+    label: MySQL
     target: _blank
 
   -
@@ -150,23 +150,18 @@ labels:
     target: _blank
 
   -
-    href: /docker.html
-    label: Docker
+    href: /django.html
+    label: Django
     target: _blank
 
   -
-    href: /open-source.html
-    label: Code  
+    href: /scrapy.html
+    label: Scrapy
     target: _blank
 
   -
-    href: /it.html
-    label: IT 
-    target: _blank
-
-  -
-    href: /python.html
-    label: Python  
+    href: /pyqt5.html
+    label: PyQt5
     target: _blank
 
 
@@ -179,9 +174,9 @@ classes:
     describe: 生活就是故事，故事就是生活
 
   -
-    href: /arch.html
-    name: 架构师之路
-    describe: 一个架构师的自我修养
+    href: /python.html
+    name: python系列文章
+    describe: python基础&进阶
 
   -
     href: /java.html
