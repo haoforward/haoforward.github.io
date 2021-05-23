@@ -1,0 +1,702 @@
+I"F<div class="row">
+
+    <div class="col-md-12">
+
+        <ul id="posts-list">
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-07-10</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/07/10/exception-handle.html">Python中的异常处理</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-07-01</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/07/01/ali-interview.html">撸了今年阿里、网易和美团的面试，我有一个重要发现.......</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-06-27</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/06/27/facebook-Libra.html">Libra 加密稳定币：Facebook的"野心"？</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-06-18</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/06/18/stay-up-late.html">报复性熬夜：熬夜一时爽，一直熬夜一直爽</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-06-10</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/06/10/write-blog.html">你为什么有那么多时间写博客？</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-06-04</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/06/04/tech-leader.html">技术总监到底要不要写代码？</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-05-27</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/05/27/ai-xcode.html">推荐一款基于 AI 开发的 IDE 插件，帮助提升编码效率</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-05-18</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/05/18/early-and-superiority.html">早，就是优势吗？从公号和比特币说起</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+            
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-05-13</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/05/13/oracle-layoffs.html">N+6 裁员裁出幸福感的背后</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-05-11</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/05/11/cookie-session.html">你真的了解 Cookie 和 Session 吗</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-05-05</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/05/05/koalas-rpc.html">百亿级企业级 RPC 框架开源了！</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-04-16</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/04/16/hypocrite.html">要直接，不要怂，谈钱才不伤感情</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-03-28</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/03/28/Raise.html">程序员该不该主动提加薪？</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-03-16</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/03/16/old-new-programmer.html">老程序员被新程序员拍在沙滩上?</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-03-09</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/03/09/huawei-yun.html">华为云开放日游记</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-03-06</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/03/06/Vamei.html">博客园知名博主 Vamei 英年早逝！</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-02-09</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/02/09/li-xinag.html">李想的创业史和感悟</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2019-01-06</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2019/01/06/knowledge-payment.html">谈谈 IT 行业的知识付费</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                <li class="posts-list-item">
+                    <div class="posts-content">
+                        <span class="posts-list-meta">2018-10-15</span>
+                        <a class="posts-list-name bubble-float-left" href="http://localhost:4000/it/2018/10/15/crossroads.html">小米从北京迁往武汉南京，一线大厂逃离或为新常态？</a>
+                        <span class="circle"></span>
+                    </div>
+                </li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+        </ul> 
+
+        <!-- Pagination -->
+        
+
+
+        <!-- Comments -->
+       <div class="comment">
+         
+
+  
+    <a href="#" class="show_disqus_comment" onclick="return false;">Show Disqus Comments</a>
+    <div id="disqus_thread"></div>
+    <script>
+    var disqus_config = function () {
+        this.page.url = 'http://localhost:4000/it';
+        this.page.identifier = '/it';
+        this.page.title = '互联网代表着未来';
+    };
+    var disqus_loaded = false;
+    $(function() {
+        $('.show_disqus_comment').on('click', function() { // DON'T EDIT BELOW THIS LINE
+            $(this).html('加载中...');
+            var that = this;
+            if (!disqus_loaded) {
+                var d = document, s = d.createElement('script');
+
+                s.type = 'text/javascript';
+                s.async = true;
+                var shortname = 'ityouknow';
+
+                s.src = '//' + shortname + '.disqus.com/embed.js';
+
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+
+                disqus_loaded = true;
+            }
+            $(that).remove();
+        })
+    })
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  
+
+  
+        <div id="gitalk-container"></div>
+        <script src="/assets/js/gitalk.min.js"></script>
+        <script>
+        var gitalk = new Gitalk({
+            id: '/it',
+            clientID: '61bfc53d957e74e78f8f',
+            clientSecret: '31c61e66cdcc9ada8db2267ee779d0bdafac434c',
+            repo: 'blog-comments',
+            owner: 'ityouknow',
+            admin: ['ityouknow'],
+            labels: ['gitment'],
+            perPage: 50,
+        })
+        gitalk.render('gitalk-container')
+        </script>
+  
+
+
+       </div>
+    </div>
+
+</div>
+<script>
+    $(document).ready(function(){
+
+        // Enable bootstrap tooltip
+        $("body").tooltip({ selector: '[data-toggle=tooltip]' });
+
+    });
+</script>
+
+:ET
